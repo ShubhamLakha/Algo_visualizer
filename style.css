@@ -14,7 +14,7 @@ body{
 .logo{
 	margin-top: 20px;
 	font-family: 'Rye', cursive;
-	font-size: 45px;
+	font-size: 50px;
 }
 .main{
 	margin-left: 12%;
@@ -35,6 +35,8 @@ body{
 
 .btn{
 	margin-bottom: 4px;
+	border: 2px black;
+	border-radius: 6px;
 }
 
 .btnreset{
