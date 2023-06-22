@@ -1,8 +1,8 @@
 # Algorithm Visualizer
-A <a href="https://github.io/ShubhamLakha/Algo_visualizer/">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
+A <a href="https://shubhamlakha.github.io/Algo_visualizer/">webpage</a> running a script which animates different sorting algorithms making them easier to understand.\
 Best viewed on Laptops or switch to portrait mode on mobile screens.
 <br>
-<a href="https://github.io/ShubhamLakha/Algo_visualizer/">Click here</a> to visit the webpage.
+<a href="https://shubhamlakha.github.io/Algo_visualizer/">Click here</a> to visit the webpage.
 
 
 ## Colors during sorting
