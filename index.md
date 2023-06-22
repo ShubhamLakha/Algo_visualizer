@@ -77,7 +77,7 @@
 					<button type="button" class="btn btn-danger btnreset " id="reset">Reset</button>
 				</li>
 				<li class="list-group-item list-group-item-light xx " >
-				<a target="_blank" href="https://github.com/vkg2000/Algo-Visualizer">More Details</a>
+				<a target="_blank" href="https://github.com/ShubhamLakha/Algo_visualizer">More Details</a>
 				</li>
 
 			</ul>
